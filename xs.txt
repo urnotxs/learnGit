@@ -1,4 +1,3 @@
-Test Rebase.
 bugfix.
 testStash
 Edit on dev branch.
