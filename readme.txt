@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 bugfux.
+=======
+testStash
+>>>>>>> Stashed changes
 Edit on dev branch.
 test stash.
 Git is a distributed version control system.
